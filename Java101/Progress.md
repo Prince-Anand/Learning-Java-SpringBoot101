@@ -3,10 +3,7 @@
 ~~Just for me~~
 
 ### Day 1 - 21 Apr 2026
-- Topic: Variables  
-- Time: 2h  
-- Problems: 3  
-- Note: Basics clear  
+
 
 ### Day 2 -
 
