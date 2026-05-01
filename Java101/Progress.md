@@ -3,8 +3,8 @@
 ~~Just for me~~
 
 ### Day 1 - 21 Apr 2026
-
-
+Why java, Compilers vs Interpreter, Platform dependency of C++ & Java JVM
+ISA, How java runs.
 ### Day 2 -
 
 ---
