@@ -6,9 +6,9 @@
 Why java, Compilers vs Interpreter, Platform dependency of C++ & Java JVM
 ISA, How java runs.
 ### Day 2 -
-JV,JRE,JDK
+JVM,JRE,JDK
 ---
-
+ 
 ## ⚡ Rules
 
 * Update **daily (even if progress is small)**
