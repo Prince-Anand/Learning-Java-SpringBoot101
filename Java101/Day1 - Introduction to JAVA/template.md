@@ -90,10 +90,10 @@ public class Example {
 
 ## 📈 Self-Check
 
-* [ ] I understood the concept
+* [✔️] I understood the concept
 * [ ] I can write code without help
 * [ ] I can explain it simply
-* [ ] I solved at least 2 problems
+* [❌] I solved at least 2 problems
 
 ---
 
