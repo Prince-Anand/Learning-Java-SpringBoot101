@@ -35,7 +35,8 @@ public class Demo {
         // Decimal are stored in 32 bits (float) or 64 bits (double)
         // Float - 1 sign bit, 8 bits for exponent, 23 bits for mantissa
         // Double - 1 sign bit, 11 bits for exponent, 52 bits for mantissa
-
+        // To convert binary to decimal, we use the formula:
+        // decimal = (-1)^sign * (1 + mantissa) * 2^(exponent - bias)
         // They give precision error, So we habe BigDecimal class in Java to handle decimal numbers with high precision (like for financial calculations).
 
     }
