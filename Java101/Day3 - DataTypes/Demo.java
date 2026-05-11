@@ -13,6 +13,7 @@ public class Demo {
         double d = 3.141592653589793; // 64-bit floating point (Double precision)
         char c = 'A'; // single character
 
+        
         System.out.println("byte: " + b);
         System.out.println("short: " + s);
         System.out.println("int: " + i);
@@ -20,7 +21,7 @@ public class Demo {
         System.out.println("float: " + f);
         System.out.println("double: " + d);
         System.out.println("char: " + c);
-        
+
         byte num1 = 0b101;
         short num2 = 0x1A;
         short num = 0123; // 123 in octal  
