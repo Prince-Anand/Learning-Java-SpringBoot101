@@ -27,6 +27,7 @@ public class Demo {
         short num = 0123; // 123 in octal  
         int num3 = 0_123; // 123 in octal
 
+        
         int num4 = 12_34_56;
         System.out.println("num1: " + num1); 
         float f2 = 0.7f;
