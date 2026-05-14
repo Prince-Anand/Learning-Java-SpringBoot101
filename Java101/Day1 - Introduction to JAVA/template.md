@@ -94,7 +94,7 @@ public class Example {
 * [ ] I can write code without help
 * [] I can explain it simply
 * [❌] I solved at least 2 problems
-
+🥺
 ---
 
 ## 🔁 Revision Notes (Quick Recall)
