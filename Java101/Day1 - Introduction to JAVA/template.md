@@ -18,6 +18,7 @@
 
 ---
 
+
 ## 🎯 Goal of the Day
 
 * What I planned to learn today
