@@ -11,7 +11,7 @@
 
 ## 💻 Code Snippets
 ```java
-// important code here
+// important code here.
 
 
 # 📅 Day X — Topic Name
