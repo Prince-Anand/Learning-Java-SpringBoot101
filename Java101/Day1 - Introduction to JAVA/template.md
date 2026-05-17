@@ -30,7 +30,7 @@
 
 ### 🔹 Concept 1: (Name)
 
-* Explanation in my own words:
+* Explanation in my own words :
 * Syntax / Rules:
 * When to use:
 
