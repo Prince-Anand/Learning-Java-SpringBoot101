@@ -8,7 +8,7 @@ ISA, How java runs.
 ### Day 2 -
 JVM,JRE,JDK, JEE 
 ---
-
+ 
 ## ⚡ Rules
 
 * Update **daily (even if progress is small)**
