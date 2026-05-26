@@ -15,10 +15,10 @@ JVM,JRE,JDK, JEE
 * Keep entries **short (1–2 lines max)**
 * Be **honest** (don’t fake progress)
 
----
+--- 
 
 ## 📈 Weekly Reflection (Optional but powerful)
-
+ 
 ### Week X
 
 * ✅ What went well:
