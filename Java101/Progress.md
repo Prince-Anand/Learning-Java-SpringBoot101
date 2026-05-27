@@ -16,7 +16,7 @@ JVM,JRE,JDK, JEE
 * Be **honest** (don’t fake progress)
 
 --- 
-
+ 
 ## 📈 Weekly Reflection (Optional but powerful)
  
 ### Week X
