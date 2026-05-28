@@ -14,7 +14,7 @@ JVM,JRE,JDK, JEE
 * Update **daily (even if progress is small)**
 * Keep entries **short (1–2 lines max)**
 * Be **honest** (don’t fake progress)
-
+ 
 --- 
  
 ## 📈 Weekly Reflection (Optional but powerful)
