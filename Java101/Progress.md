@@ -20,7 +20,7 @@ JVM,JRE,JDK, JEE
 ## 📈 Weekly Reflection (Optional but powerful)
  
 ### Week X
-
+ 
 * ✅ What went well:
 * ❌ What didn’t:
 * 🎯 Focus next week:
