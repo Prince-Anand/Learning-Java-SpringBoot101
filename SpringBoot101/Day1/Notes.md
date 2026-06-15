@@ -8,7 +8,7 @@
 
 #### Request & Response
 - **Request:** HTTP / HTTPS
-- **Response:** HTTP
+- **Response:** HTTP / HTTPS
 
 #### What is a Client?
 - Browser
@@ -90,7 +90,7 @@ Popular implementations:
 
 ### Why Spring?
 
-Servlet-based applications often became:
+Large Servlet-based applications often became:
 - Tightly coupled
 - Difficult to scale
 - Hard to maintain
@@ -192,7 +192,7 @@ Spring Data JPA
 2. How it Works: The Tomcat server stays up continuously in the background. It opens the network port, reads incoming raw bytes, translates them into structured HTTP requests, manages multi-threading automatically, and hands over the request to your Servlet (which is just a specialized Java class).  
 3. The Advantage: Developers were freed from low-level networking and thread management, allowing them to focus strictly on writing core business logic.
 
-but this was also tightly coupled, not scalable and maintainable, so, Spring Framework was built to solve this exact problem.
+but this was also tightly coupled, hard to scale and maintainable, so, Spring Framework was built to solve this exact problem.
 
 - Spring Framework = Spring is not just a single framework; it is an entire Ecosystem that makes Java development simple, modern, and highly productive
 
