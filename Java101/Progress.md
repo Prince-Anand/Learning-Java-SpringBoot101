@@ -7,6 +7,9 @@ Why java, Compilers vs Interpreter, Platform dependency of C++ & Java JVM
 ISA, How java runs.
 ### Day 2 -
 JVM,JRE,JDK, JEE 
+### Day 3 -
+Data types
+
 ---
  
 ## ⚡ Rules
