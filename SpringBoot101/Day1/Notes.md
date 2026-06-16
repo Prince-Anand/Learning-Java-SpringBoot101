@@ -1,5 +1,5 @@
 ## Spring Framework
-
+> Notes: <a href="https://github.com/adityatandon15/Spring-Framework-Full-Course/blob/main/Lecture%2001/notes/Notes.pdf"> Click here </a>
 ### Client-Server Architecture
 
 #### Flow
